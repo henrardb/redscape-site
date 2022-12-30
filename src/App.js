@@ -3,6 +3,7 @@ import Contact from "./pages/Contact";
 import Home from "./pages/Home";
 import Societe from "./pages/Societe";
 import Solutions from "./pages/Solutions";
+import "./assets/App.css";
 
 function App() {
   return (

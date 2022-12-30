@@ -1,0 +1,9 @@
+#root {
+  background-color: red;
+}
+
+#home {
+  background-color: blue;
+  display: inline-block;
+  text-align: center;
+}

@@ -1,10 +1,13 @@
 import Navbar from "../components/Navbar";
+import { Typography } from '@mui/material';
+import Pillars from "../components/Pillars";
 
 const Home = () => {
   return (
-    <div>
+    <div id="home">
       <Navbar />
-      <h1>Home</h1>
+      <Typography variant="h1">Redscape home</Typography>
+      <Pillars />
     </div>
   );
 }
